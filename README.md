@@ -1,12 +1,12 @@
 
 ## USAC: Universal RANSAC 1.0
-=================
-
-#Overview:
---------
+------------------------
 
 This is copy of original code from [USAC Project Pafe](http://www.cs.unc.edu/~rraguram/usac/)
+-----------------------
 
+Overview:
+--------
 
 USAC, or Universal RANSAC, is a framework for robust estimation. USAC extends the simple hypothesize-and-verify structure of standard RANSAC to incorporate a number of important practical and computational considerations. This implementation thus addresses many of the limitations of standard RANSAC (efficiency, robustness, degeneracy, accuracy) within a single unified package.
 
