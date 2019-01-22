@@ -2,7 +2,7 @@
 ## USAC: Universal RANSAC 1.0
 ------------------------
 
-This is copy of original code from [USAC Project Pafe](http://www.cs.unc.edu/~rraguram/usac/)
+This is copy of original code from [USAC Project Page](http://www.cs.unc.edu/~rraguram/usac/)
 -----------------------
 
 Overview:
